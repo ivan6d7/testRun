@@ -1,6 +1,5 @@
 from flask import Flask
 import numbers
-import random
 
 app = Flask(__name__)
 
